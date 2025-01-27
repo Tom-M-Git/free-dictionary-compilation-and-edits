@@ -2,15 +2,15 @@
 
 Available in formats such as: **Stardict** (`.ifo`, `.idx.` `.dict`).
 
+## DOWNLOAD
+
+See [Releases](https://github.com/Tom-M-Git/free-dictionary-compilation-and-edits/releases).
+
 ## Includes
 - Edict (**Stardict**)
 - JMdict (**Stardict**)
 - Wiktionary (**Stardict**)
 - Gene95 (**Stardict**)
-
-## Downloads
-
-See [Releases](https://github.com/Tom-M-Git/free-dictionary-compilation-and-edits/releases).
 
 ## Other Dictionary Related Resources
 
