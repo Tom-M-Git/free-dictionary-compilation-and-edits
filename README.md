@@ -1,11 +1,13 @@
 # free-dictionary-compilation-and-edits
+
 ## Includes
 - Edict
 - JMdict
-- Gene95
 - Wiktionary
+- Gene95
 
 ## Other Dictionary Related Resources
+
 - Dictionary data:
   - Multiple free dictionary projects hosted at [The Monash Nihongo ftp Archive](http://ftp.edrdg.org/pub/Nihongo/00INDEX.html) and projects maintained by EDRDG.
   - Freely available compiled Wiktionary files in the Stardict format hosted at [dictinfo.com](http://dictinfo.com/).
