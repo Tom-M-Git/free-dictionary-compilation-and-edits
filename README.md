@@ -1,4 +1,5 @@
 # free-dictionary-compilation-and-edits
+
 Available in formats such as: **Stardict** (`.ifo`, `.idx.` `.dict`).
 
 ## Includes
@@ -6,6 +7,10 @@ Available in formats such as: **Stardict** (`.ifo`, `.idx.` `.dict`).
 - JMdict (**Stardict**)
 - Wiktionary (**Stardict**)
 - Gene95 (**Stardict**)
+
+## Downloads
+
+See [Releases](https://github.com/Tom-M-Git/free-dictionary-compilation-and-edits/releases).
 
 ## Other Dictionary Related Resources
 
