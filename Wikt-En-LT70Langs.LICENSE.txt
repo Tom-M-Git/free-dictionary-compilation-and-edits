@@ -1,0 +1,17 @@
+# Free Dictionary - Derived from Wiktionary Data
+
+This dictionary is based on content derived from **Wiktionary**, which is licensed under the **Creative Commons Attribution-ShareAlike 3.0 International License (CC-BY-SA 3.0)**.
+
+## Attribution:
+The original content is from **Wiktionary**, created by its contributors, and is licensed under **CC-BY-SA 3.0**. You must provide appropriate credit and cannot use the material in a way that suggests the original authors endorse you or your use of the work.
+
+The source of the dictionary files were found at http://dictinfo.com/.
+For more information on the original content and its licensing:
+- [Wiktionary](https://www.wiktionary.org)
+
+## License:
+This work is licensed under the **Creative Commons Attribution-ShareAlike 3.0 International License (CC-BY-SA 3.0)**.
+
+Full license text:
+- [Creative Commons Attribution-ShareAlike 3.0 License Deed](https://creativecommons.org/licenses/by-sa/3.0/)
+- [Creative Commons Attribution-ShareAlike 3.0 Legal Code](https://creativecommons.org/licenses/by-sa/3.0/legalcode)
