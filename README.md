@@ -1,10 +1,11 @@
 # free-dictionary-compilation-and-edits
+Available in formats such as: **Stardict** (`.ifo`, `.idx.` `.dict`).
 
 ## Includes
-- Edict
-- JMdict
-- Wiktionary
-- Gene95
+- Edict (**Stardict**)
+- JMdict (**Stardict**)
+- Wiktionary (**Stardict**)
+- Gene95 (**Stardict**)
 
 ## Other Dictionary Related Resources
 
