@@ -14,7 +14,7 @@
   - XDXF the open source dictionary format documentation and repository at https://github.com/soshial/xdxf_makedict.
   - FOSS Web based dictionary editor also available locally: [Lexonomy](https://www.lexonomy.eu/), [Repo](https://github.com/elexis-eu/lexonomy).
   - One of the most well-known FOSS dicitonary app on the Web maintained on GitHub, too: [GoldenDict](http://goldendict.org/), [GitHub repo](https://github.com/goldendict/goldendict).
-  - GoldenDict substitute for Mobile:
+  - GoldenDict substitutes for Mobile:
     - [SilverDict](https://github.com/Crissium/SilverDict-mobile)
     - [ColorDict]() on Google Play Store
     - [TwinkleStar]() on Google Play Store
