@@ -1,0 +1,11 @@
+# GENE95 Dictionary
+
+This is a recompiled version of the **GENE95 Dictionary** originally created by **Kurumi (GGD00145)**.
+
+The author "requests" in the description page, that they be contacted before redistribution, but their contact has not been working, and they're no longer reachable. Also, their own original source provider is not accessible.
+
+While the license declaration is missing or unclear but the source content is publicly accessible to everyone provided by the third-party.
+
+## Attribution:
+- The original dictionary was created by **Kurumi (NiftyID: GGD00145)**.
+- For more information, visit the third-party source http://www.namazu.org/~tsuchiya/sdic/data/gene.html.
