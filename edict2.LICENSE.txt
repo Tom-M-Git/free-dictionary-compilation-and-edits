@@ -1,0 +1,22 @@
+Creative Commons Attribution-ShareAlike Licence (V4.0)
+
+This file is a redistribution of data that is originally licensed under Creative Commons Attribution-ShareAlike Licence (V4.0).
+
+Attribution:
+  The source file was provided and is owned by James William BREEN and The Electronic Dictionary Research and Development Group.
+  For more information, visit the project pages:
+    https://www.edrdg.org/wiki/index.php/JMdict-EDICT_Dictionary_Project
+    https://www.edrdg.org/wiki/index.php/KANJIDIC_Project
+  
+The original license page of the source provider at "The Monash Nihongo ftp Archive": http://ftp.edrdg.org/pub/Nihongo/00INDEX.html
+
+In summary (extract from the Licence Deed):
+
+You are free:
+  to Share - to copy, distribute and transmit the work
+  to Remix - to adapt the work
+Under the following conditions:
+  Attribution. You must attribute the work in the manner specified by the author or licensor (but not in any way that suggests that they endorse you or your use of the work).
+  Share Alike. If you alter, transform, or build upon this work, you may distribute the resulting work only under the same, similar or a compatible licence.
+
+The Licence Deed can be viewed here: https://creativecommons.org/licenses/by-sa/4.0/, and the full Licence Code is here: https://creativecommons.org/licenses/by-sa/4.0/legalcode.
