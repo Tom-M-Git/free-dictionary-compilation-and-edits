@@ -1,0 +1,17 @@
+# Creative Commons Attribution 4.0 International License (CC BY 4.0)
+
+Copyright (c) 2025 <astral.taney@gmail.com> and Tom-M-Git
+
+This work is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
+## Key Points of the License:
+- **You are free to**:
+  - Share: copy, distribute, and transmit the material in any medium, mode, or format.
+  - Adapt: remix, transform, and build upon the material for any purpose, even commercially.
+- **Under the following conditions**:
+  - **Attribution**: You must give appropriate credit to the original author(s) in the manner specified by the author or licensor. You may not use the material in a way that suggests the original author endorses you or your use of the work.
+
+## Full Text of the License (Legal Code):
+For the full legal terms, please refer to the following:
+- [Creative Commons Attribution 4.0 International License Deed](https://creativecommons.org/licenses/by/4.0/)
+- [Creative Commons Attribution 4.0 International License Legal Code](https://creativecommons.org/licenses/by/4.0/legalcode)
